@@ -50,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -74,5 +75,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="985" y="315" key="FileChooserDialogImpl" timestamp="1589518197122">
+      <screen x="0" y="40" width="3840" height="1040" />
+    </state>
+    <state x="985" y="315" key="FileChooserDialogImpl/0.40.3840.1040@0.40.3840.1040" timestamp="1589518197122" />
   </component>
 </project>
