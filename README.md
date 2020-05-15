@@ -1,7 +1,7 @@
 # Lecture-Java
 Study-Learning: Java Language with courses.packtpub.com
 
-Check out: https://github.com/PacktWorkshops/The-Java-Workshop for reference
+Check out: https://github.com/PacktWorkshops/The-Java-Workshop for reference..
 
 Java Workshop:
 
