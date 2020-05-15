@@ -9,7 +9,7 @@ public class exercise10 {
             case "just right" -> 0;
             default -> 0;
         };
-        
+
         System.out.println("Adjust temperature: " + tempAdjustment);
     }
 }
