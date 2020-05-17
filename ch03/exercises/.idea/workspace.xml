@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f46705-b790-483d-86b8-5a2be0c4a13b" name="Default Changelist" comment="" />
+    <list default="true" id="7a3cc803-406c-49ed-a13a-0fe6c0aedf08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity/activity.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +20,23 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1bvhMFLeADtstfBFzIcqYEaVXzv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1c3PIRBBYZC5f2h3DKfspGwZsGn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,27 +45,31 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exercise1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60f46705-b790-483d-86b8-5a2be0c4a13b" name="Default Changelist" comment="" />
-      <created>1589518424430</created>
+      <changelist id="7a3cc803-406c-49ed-a13a-0fe6c0aedf08" name="Default Changelist" comment="" />
+      <created>1589754223202</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589518424430</updated>
+      <updated>1589754223202</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1364" y="305" key="FileChooserDialogImpl" timestamp="1589518457501">
-      <screen x="0" y="40" width="3840" height="1040" />
-    </state>
-    <state x="1364" y="305" key="FileChooserDialogImpl/0.40.3840.1040@0.40.3840.1040" timestamp="1589518457501" />
-    <state x="967" y="184" key="new project wizard" timestamp="1589518458822">
-      <screen x="0" y="40" width="3840" height="1040" />
-    </state>
-    <state x="967" y="184" key="new project wizard/0.40.3840.1040@0.40.3840.1040" timestamp="1589518458822" />
   </component>
 </project>
