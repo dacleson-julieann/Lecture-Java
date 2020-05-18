@@ -1,8 +1,8 @@
-class Computer {
+class Computer2 {
     // variables
     double cpuSpeed; // in GHz
     // constructor
-    Computer() {
+    Computer2() {
         cpuSpeed = 0;
     }
 
@@ -17,7 +17,7 @@ class Computer {
 
 public class exercise1 {
     public static void main(String[] args) {
-        Computer myPC = new Computer();
+        Computer2 myPC = new Computer2();
         myPC.setCpuSpeed(2.5);
         System.out.println(myPC.getCpuSpeed());
     }

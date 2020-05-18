@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a3cc803-406c-49ed-a13a-0fe6c0aedf08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activity/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activity/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activity/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activity/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activity/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activity/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activity/activity.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercises/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercises/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercises/exercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercises/exercise1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +59,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise1" />
       <module name="exercises" />
@@ -53,8 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise4" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.exercise4" />
         <item itemvalue="Application.exercise1" />
       </list>
     </recent_temporary>
@@ -71,5 +101,38 @@
       <updated>1589754223202</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1589761161342">
+      <screen x="0" y="40" width="3840" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.40.3840.1040@0.40.3840.1040" timestamp="1589761161342" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1589761161342">
+      <screen x="0" y="40" width="3840" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.center/0.40.3840.1040@0.40.3840.1040" timestamp="1589761161342" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1589761161342">
+      <screen x="0" y="40" width="3840" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.left/0.40.3840.1040@0.40.3840.1040" timestamp="1589761161342" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1589761161342">
+      <screen x="0" y="40" width="3840" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.right/0.40.3840.1040@0.40.3840.1040" timestamp="1589761161342" />
+    <state x="2136" y="180" key="new project wizard" timestamp="1589759592040">
+      <screen x="0" y="40" width="3840" height="1040" />
+    </state>
+    <state x="2136" y="180" key="new project wizard/0.40.3840.1040@0.40.3840.1040" timestamp="1589759592040" />
   </component>
 </project>
